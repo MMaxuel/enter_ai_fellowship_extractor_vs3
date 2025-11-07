@@ -1,0 +1,14 @@
+
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.7.0
+PyPDF2>=3.0.1
+sqlitedict>=2.1.0
+httpx>=0.27.2
+certifi>=2024.7.4
+openai>=1.40.0
+prometheus_client>=0.20.0
+tqdm>=4.66.4
+rapidfuzz>=3.9.7
+# docling opcional
+# docling>=1.0.0
