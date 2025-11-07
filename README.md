@@ -258,8 +258,3 @@ curl http://127.0.0.1:8765/metrics
 - UI mínima (grids + upload).  
 - Melhorar `template_id` com embeddings de cabeçalho/rodapé.
 
----
-
-## 10) Licença
-
-MIT (sugestão).
